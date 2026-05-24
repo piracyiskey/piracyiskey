@@ -22,44 +22,45 @@
 
 ## 🛠️ My Tech Toolbox
 
-<table style="border: none; border-collapse: collapse;" width="100%">
-<tr style="border: none;">
-<td width="60%" valign="top" style="border: none;">
+<div align="center">
+  <table>
+    <tr>
+      <td valign="middle">
 
 ### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,php,html,css,sql" alt="Programming Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,php,html,css,sql" />
 </p>
 
 ### 🌐 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind" alt="Frameworks & Libraries" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
 ### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,githubactions" alt="Cloud & DevOps" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,githubactions" />
 </p>
 
 ### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,bash,linux" alt="Tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,bash,linux" />
 </p>
 
 </td>
 
-<td width="40%" valign="middle" align="center" style="border: none;">
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coding Animation" />
-
+<td valign="middle">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280"/>
 </td>
+
 </tr>
 </table>
+</div>
 
 ## 📊 GitHub Stats
 
