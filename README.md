@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=👋+Hi+there!;I'm+Nguyễn+Mạnh+Dũng,+nice+to+meet+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!;I'm+Nguy%E1%BB%85n+M%E1%BA%A1nh+D%C5%A9ng,+nice+to+meet+you" alt="Typing SVG" />
 </h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=piracyiskey&style=flat-square&color=blue" alt="Profile Views" /></p>
