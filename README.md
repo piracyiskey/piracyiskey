@@ -24,8 +24,7 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,php,html,css" alt="Programming Languages" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,php,html,css,sql" alt="Programming Languages" />
 </p>
 
 ### 🌐 Frameworks & Libraries
@@ -46,12 +45,6 @@
 ### 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Tools" />
-  <br>
-  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-5C4E44?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=python&logoColor=white" alt="Antigravity" />
 </p>
 
 ## 📊 GitHub Stats
