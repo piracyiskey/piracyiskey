@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!;I'm+Nguy%E1%BB%85n+M%E1%BA%A1nh+D%C5%A9ng,+nice+to+meet+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=800&color=2ECC71&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!;I'm+Nguy%E1%BB%85n+M%E1%BA%A1nh+D%C5%A9ng,+nice+to+meet+you" alt="Typing SVG" />
 </h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=piracyiskey&style=flat-square&color=blue" alt="Profile Views" /></p>
@@ -52,8 +52,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piracyiskey&theme=tokyonight" alt="piracyiskey's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piracyiskey&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piracyiskey&show_icons=true&theme=tokyonight" alt="piracyiskey's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piracyiskey&theme=tokyonight" alt="piracyiskey's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piracyiskey&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🐍 My Contribution Graph 🐍
