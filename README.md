@@ -52,12 +52,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img style="margin: 0 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piracyiskey&theme=gruvbox" alt="Top Languages" />
-  <img style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=piracyiskey&theme=gruvbox" alt="piracyiskey's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piracyiskey&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piracyiskey&theme=gruvbox" alt="piracyiskey's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piracyiskey&theme=gruvbox" alt="piracyiskey's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piracyiskey&theme=gruvbox" alt="piracyiskey's GitHub Streak" />
 </p>
 
 ## 🐍 My Contribution Graph 🐍
