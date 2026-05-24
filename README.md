@@ -22,6 +22,9 @@
 
 ## 🛠️ My Tech Toolbox
 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="60%" valign="top">
+
 ### 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,py,java,cpp,php,html,css,sql" alt="Programming Languages" />
@@ -44,8 +47,15 @@
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,bash,linux" alt="Tools" />
 </p>
+
+</td><td width="40%" valign="center" align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coding Animation" />
+
+</td></tr>
+</table>
 
 ## 📊 GitHub Stats
 
