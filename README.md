@@ -22,10 +22,7 @@
 
 ## 🛠️ My Tech Toolbox
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 
 ### 💻 Programming Languages
 <p>
@@ -51,16 +48,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,bash,linux" />
 </p>
-
-</td>
-
-<td valign="middle">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280"/>
-</td>
-
-</tr>
-</table>
-</div>
 
 ## 📊 GitHub Stats
 
