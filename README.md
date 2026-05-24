@@ -22,7 +22,7 @@
 
 ## 🛠️ My Tech Toolbox
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+<img align="right" style="margin-top: 135px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVtbzV0dzBndmF5Y2dpamY5MWJzeGw4OW1waDNwc3Y4ZjZsZmUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2rNOf3b7vJgk/giphy.gif" width="300"/>
 
 ### 💻 Programming Languages
 <p>
