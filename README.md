@@ -22,10 +22,7 @@
 
 ## 🛠️ My Tech Toolbox
 
-<p align="right">
-  <br><br><br><br><br><br><br>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVtbzV0dzBndmF5Y2dpamY5MWJzeGw4OW1waDNwc3Y4ZjZsZmUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2rNOf3b7vJgk/giphy.gif" width="300"/>
-</p>
+<img align="right" style="margin-top: 13px;" src="gif/Mario.gif" width="300"/>
 
 ### 💻 Programming Languages
 <p>
@@ -59,7 +56,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piracyiskey&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🐍 Contribution Graph
+## 🐍 My Contribution Graph 🐍
 
 <p align="center">
   <picture>
