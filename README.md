@@ -1,9 +1,9 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=26&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=👋+Hi+there!;I'm+Nguyễn+Mạnh+Dũng,+nice+to+meet+you" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=👋+Hi+there!;I'm+Nguyễn+Mạnh+Dũng,+nice+to+meet+you" alt="Typing SVG" />
+</h1>
 
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=piracyiskey&style=flat-square&color=blue" alt="Profile Views" /></h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=piracyiskey&style=flat-square&color=blue" alt="Profile Views" /></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mdn04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
