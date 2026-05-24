@@ -22,7 +22,7 @@
 
 ## 🛠️ My Tech Toolbox
 
-<img align="right" style="margin-top: 13px;" src="gif/Mario.gif" width="300"/>
+<img align="right" style="margin-top: 13px;" src="gif/Mario-ezgif.com-speed.gif" width="300"/>
 
 ### 💻 Programming Languages
 <p>
