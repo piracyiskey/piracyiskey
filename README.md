@@ -22,7 +22,10 @@
 
 ## 🛠️ My Tech Toolbox
 
-<img align="right" style="margin-top: 135px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVtbzV0dzBndmF5Y2dpamY5MWJzeGw4OW1waDNwc3Y4ZjZsZmUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2rNOf3b7vJgk/giphy.gif" width="300"/>
+<p align="right">
+  <br><br><br><br><br><br><br>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVtbzV0dzBndmF5Y2dpamY5MWJzeGw4OW1waDNwc3Y4ZjZsZmUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2rNOf3b7vJgk/giphy.gif" width="300"/>
+</p>
 
 ### 💻 Programming Languages
 <p>
