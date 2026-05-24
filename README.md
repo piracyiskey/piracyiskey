@@ -35,7 +35,6 @@
   <a href="https://github.com/piracyiskey/Do-An-IS402"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=Do-An-IS402&theme=tokyonight" alt="Repo 2" /></a>
   <a href="https://github.com/piracyiskey/Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=Android&theme=tokyonight" alt="Repo 3" /></a>
 </p>
-<p align="center"><em>(Don't forget to replace <code>REPO1</code>, <code>REPO2</code>, and <code>REPO3</code> with your actual repository names in the README!)</em></p>
 
 ## 📊 GitHub Stats
 
