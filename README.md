@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piracyiskey&show_icons=true&theme=tokyonight" alt="piracyiskey's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piracyiskey&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piracyiskey&theme=tokyonight" alt="piracyiskey's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piracyiskey&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🐍 Contribution Graph
