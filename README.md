@@ -52,12 +52,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-taupe-two.vercel.app/api?username=piracyiskey&show_icons=true&theme=tokyonight" alt="piracyiskey's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piracyiskey&theme=tokyonight" alt="piracyiskey's GitHub Streak" />
+  <img width=390 src="https://github-readme-streak-stats-piracyiskey.vercel.app/?user=piracyiskey&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-piracyiskey.vercel.app/api?username=piracyiskey&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-taupe-two.vercel.app/api/top-langs/?username=piracyiskey&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width=325 align="center" src="https://github-readme-stats-piracyiskey.vercel.app/api/top-langs/?username=piracyiskey&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
 ## 🐍 My Contribution Graph 🐍
