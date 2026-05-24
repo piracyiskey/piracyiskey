@@ -22,12 +22,36 @@
 
 ## 🛠️ My Tech Toolbox
 
+### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,php,html,css" alt="Programming Languages" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+### 🌐 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind" alt="Frameworks & Libraries" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,githubactions" alt="Cloud & DevOps" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Tools" />
+  <br>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-5C4E44?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=python&logoColor=white" alt="Antigravity" />
 </p>
 
 ## 📊 GitHub Stats
