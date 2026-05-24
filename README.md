@@ -1,6 +1,9 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=800&color=FB4934&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!;I'm+Nguy%E1%BB%85n+M%E1%BA%A1nh+D%C5%A9ng,+nice+to+meet+you" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=800&color=FB4934&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there!;I'm+Nguy%E1%BB%85n+M%E1%BA%A1nh+D%C5%A9ng+-+welcome+to+my+GitHub+page" alt="Typing SVG" />
+  <br>
+  <br>
 </h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=piracyiskey&style=flat-square&color=blue" alt="Profile Views" /></p>
@@ -64,8 +67,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/snake-royal-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/snake-royal.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/snake-royal.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/snake-royal-v2-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/snake-royal-v2.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/snake-royal-v2.svg">
   </picture>
 </p>
