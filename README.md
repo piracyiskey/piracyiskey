@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-taupe-two.vercel.app/api?username=piracyiskey&theme=tokyonight&show_icons=true&hide=issues" alt="piracyiskey's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piracyiskey&theme=tokyonight" alt="piracyiskey's GitHub stats" />
 </p>
 
 ## 🐍 My Contribution Graph 🐍
