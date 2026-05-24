@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm piracyiskey <img src="https://komarev.com/ghpvc/?username=piracyiskey&style=flat-square&color=blue" alt="Profile Views" /></h1>
 
-<!--
-**piracyiskey/piracyiskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+
+- 🚀 I'm currently working on exciting Full Stack Web Applications.
+- 🌱 I'm currently expanding my knowledge in system architecture and new web technologies.
+- 👯 I'm looking to collaborate on Open Source projects and innovative startup ideas.
+- 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**!
+- ⚡ Fun fact: I love discovering new creative coding techniques.
+
+## 🛠️ My Tech Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/piracyiskey/REPO1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=REPO1&theme=tokyonight" alt="Repo 1" /></a>
+  <a href="https://github.com/piracyiskey/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=REPO2&theme=tokyonight" alt="Repo 2" /></a>
+  <a href="https://github.com/piracyiskey/REPO3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=REPO3&theme=tokyonight" alt="Repo 3" /></a>
+</p>
+<p align="center"><em>(Don't forget to replace <code>REPO1</code>, <code>REPO2</code>, and <code>REPO3</code> with your actual repository names in the README!)</em></p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piracyiskey&show_icons=true&theme=tokyonight" alt="piracyiskey's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piracyiskey&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/piracyiskey/piracyiskey/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
