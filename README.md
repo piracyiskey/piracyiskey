@@ -28,14 +28,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/piracyiskey/verify_diploma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=verify_diploma&theme=tokyonight" alt="Repo 1" /></a>
-  <a href="https://github.com/piracyiskey/Do-An-IS402"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=Do-An-IS402&theme=tokyonight" alt="Repo 2" /></a>
-  <a href="https://github.com/piracyiskey/Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=Android&theme=tokyonight" alt="Repo 3" /></a>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
