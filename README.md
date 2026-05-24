@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://linkedin.com/in/mdn04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/piracy_eternal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://facebook.com/manhdung252004"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 ## ✨ About Me
@@ -31,9 +31,9 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/piracyiskey/REPO1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=REPO1&theme=tokyonight" alt="Repo 1" /></a>
-  <a href="https://github.com/piracyiskey/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=REPO2&theme=tokyonight" alt="Repo 2" /></a>
-  <a href="https://github.com/piracyiskey/REPO3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=REPO3&theme=tokyonight" alt="Repo 3" /></a>
+  <a href="https://github.com/piracyiskey/verify_diploma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=verify_diploma&theme=tokyonight" alt="Repo 1" /></a>
+  <a href="https://github.com/piracyiskey/Do-An-IS402"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=Do-An-IS402&theme=tokyonight" alt="Repo 2" /></a>
+  <a href="https://github.com/piracyiskey/Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piracyiskey&repo=Android&theme=tokyonight" alt="Repo 3" /></a>
 </p>
 <p align="center"><em>(Don't forget to replace <code>REPO1</code>, <code>REPO2</code>, and <code>REPO3</code> with your actual repository names in the README!)</em></p>
 
