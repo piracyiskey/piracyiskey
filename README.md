@@ -6,13 +6,14 @@
   <br>
 </h1>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=piracyiskey&style=flat-square&color=blue" alt="Profile Views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=piracyiskey&style=for-the-badge&color=fb4934" alt="Profile Views" /></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mdn04"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:manhdungnguyen2510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://instagram.com/piracy_eternal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://facebook.com/manhdung252004"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="http://discordapp.com/users/843165488577118288"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ## ✨ About Me
@@ -73,4 +74,6 @@
   </picture>
 </p>
 
-<p align="center">Check out my awesome projects<p>
+<br />
+<h2 align="center">⬇️ Check out my awesome projects ⬇️</h2> 
+
