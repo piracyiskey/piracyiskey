@@ -26,7 +26,11 @@
 
 ## 🛠️ My Tech Stack
 
-<img align="right" style="margin-top: 13px;" src="gif/Mario-ezgif.com-speed.gif" width="300"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="gif/mario_trs-ezgif.com-resize.gif">
+  <source media="(prefers-color-scheme: light)" srcset="gif/Mario-ezgif.com-speed.gif">
+  <img align="right" style="margin-top: 13px;" src="gif/Mario-ezgif.com-speed.gif" width="300"/>
+</picture>
 
 ### 💻 Programming Languages
 <p>
