@@ -68,7 +68,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piracyiskey&theme=gruvbox" alt="piracyiskey's GitHub Streak" />
 </p>
 
-## 🐍 My Contribution Graph 🐍
+<h2 align="center">🐍 My Contribution Graph 🐍</h2>
 
 <p align="center">
   <picture>
@@ -79,5 +79,4 @@
 </p>
 
 <br />
-<h2 align="center">⬇️ Check out my awesome projects ⬇️</h2> 
-
+<h3 align="center">⬇️ Check out my awesome projects ⬇️</h3>
