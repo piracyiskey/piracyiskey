@@ -17,7 +17,7 @@
 </p>
 
 ## ✨ About Me
-- 🎓 I'm an undergraduate student enthusiastically pursuing a career in **Software Engineering**.
+- 🎓 I'm a graduated Information Systems major enthusiastically pursuing a career in **Software Engineering**.
 - 🚀 I love building exciting **Full Stack Web Applications** and tackling new challenges.
 - 🌱 Currently expanding my knowledge in **system architecture** and modern web technologies.
 - 👯 I'm always looking to collaborate on **Open Source projects** and connect with the tech community!
